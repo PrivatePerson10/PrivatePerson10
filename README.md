@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Kason Lai, and this is my GitHub account.
+I'm currently trying to do a project with my friends, and I want to learn coding basics to add to my toolbelt. If you're interested, my pronouns are he/him, and I am currently a student.
 
 <!--
 **PrivatePerson10/PrivatePerson10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
